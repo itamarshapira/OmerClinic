@@ -1,8 +1,8 @@
 export enum SelectedPage {
-  Home = 'home',
-  Doctors = 'doctors',
-  Services = 'services',
-  Reviews = 'reviews',
+  Home = 'בית',
+  Doctors = 'תמונות',
+  Services = 'טיפולים',
+  Reviews = 'המלצות',
 }
 
 export enum SelectedService {

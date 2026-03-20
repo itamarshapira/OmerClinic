@@ -45,7 +45,7 @@ const NavBar = ({ flexBetween, selectedPage, setSelectedPage }: Props) => {
           </div>
 
           {/* MENU ITEMS */}
-          <div className=" ml-[20%] flex flex-col items-start gap-5 text-2xl">
+          <div className=" ml-[20%] flex flex-col items-end  gap-5 text-2xl">
             <Links
               selectedPage={selectedPage}
               setSelectedPage={setSelectedPage}

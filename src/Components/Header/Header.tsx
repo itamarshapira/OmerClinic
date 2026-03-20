@@ -1,4 +1,4 @@
-import Logo from '@/assets/Images/logo.png';
+import logo from '@/assets/Images/logo.png';
 import NavBar from './NavBar';
 import { useState, useEffect } from 'react';
 import { SelectedPage } from '@/Components/Shared/Types';
@@ -28,7 +28,7 @@ const Header = () => {
         isTopOfPage ? '' : 'bg-[#edb472]'
       } transition fixed top-0 z-30 w-full p-5 md:px-16`}
     >
-      <img className="w-10 sm:w-20" src={Logo} alt="Logo" />
+      <img className="w-10 sm:w-20" src={logo} alt="Logo" />
       <NavBar
         flexBetween={flexBetween}
         selectedPage={selectedPage}

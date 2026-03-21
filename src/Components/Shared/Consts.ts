@@ -9,7 +9,7 @@ import medicine from '@/assets/Images/Icons/Medicine.png';
 import seeMoreImage from '@/assets/Images/Icons/seeMoreImage.png';
 
 import Banner1 from '@/assets/Images/banner1.png';
-import Banner2 from '@/assets/Images/banner2.png';
+import Banner2 from '@/assets/Images/banner2.png'; // ..
 
 import doc1 from '@/assets/Images/Doctors/doc1.png';
 import doc2 from '@/assets/Images/Doctors/doc2.png';

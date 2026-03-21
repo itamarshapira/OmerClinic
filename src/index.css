@@ -32,3 +32,27 @@
 html {
   scroll-behavior: smooth;
 }
+
+/** CARD OF SERVICE DETAILS :
+   This animation makes the right-side details card enter smoothly
+   whenever the selected service changes.
+
+   HOW:
+   Because we added key={SelectService} to the details card,
+   React remounts that card when the selected service changes.
+   That causes this animation to run again each time.
+*/
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.80s ease;
+}

@@ -2,11 +2,11 @@ import neurology from '@/assets/Images/Icons/Neurology.png';
 import cardiology from '@/assets/Images/Icons/Cardiology.png';
 import orthopedics from '@/assets/Images/Icons/Orthopoedics.png';
 import surgery from '@/assets/Images/Icons/Surgery.png';
-import dentistry from '@/assets/Images/Icons/Dentistry.png';
-import radiology from '@/assets/Images/Icons/Radiology.png';
-import urology from '@/assets/Images/Icons/Urology.png';
-import medicine from '@/assets/Images/Icons/Medicine.png';
-import seeMoreImage from '@/assets/Images/Icons/seeMoreImage.png';
+//import dentistry from '@/assets/Images/Icons/Dentistry.png';
+//import radiology from '@/assets/Images/Icons/Radiology.png';
+//import urology from '@/assets/Images/Icons/Urology.png';
+//import medicine from '@/assets/Images/Icons/Medicine.png';
+//import seeMoreImage from '@/assets/Images/Icons/seeMoreImage.png';
 
 import Banner1 from '@/assets/Images/banner1.png';
 import Banner2 from '@/assets/Images/banner2.png'; // ..
